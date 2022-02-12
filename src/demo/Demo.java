@@ -9,6 +9,6 @@ public class Demo {
 		System.out.print("Linea en nueva rama");
 		System.out.print("Nuevo cambio en master");
 		System.out.println("Probando el ");
-		System.out.println("rebase");
+		System.out.println("rebase (2 commits)");
 	}
 }
