@@ -7,5 +7,6 @@ public class Demo {
 		System.out.print("Linea 2 con conflicto local");
 		System.out.print("Linea 3 modificada para el ejercicio 1");
 		System.out.print("Linea en nueva rama");
+		System.out.print("Nuevo cambio en master");
 	}
 }
