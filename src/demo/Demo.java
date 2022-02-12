@@ -5,7 +5,7 @@ public class Demo {
 		int v = 1;
 		System.out.printf("Prueba git %d", v);
 		System.out.print("Linea 2 con conflicto local");
-		System.out.print("Linea 3");
+		System.out.print("Linea 3 modificada para el ejercicio 1");
 		System.out.print("Linea en nueva rama");
 	}
 }
