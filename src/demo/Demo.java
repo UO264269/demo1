@@ -10,6 +10,6 @@ public class Demo {
 		System.out.println("Probando el ");
 		System.out.println("rebase (2 commits)");
 		//Vas a petar?
-		//Estoy en el master?
+		//Estoy en el master? (Si, estás en el master, último commit and push)
 	}
 }
